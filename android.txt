@@ -1,0 +1,3 @@
+title=<Test Kivy>
+author=<ElJoker63>
+orientation=<portrait>
